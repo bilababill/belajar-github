@@ -6,12 +6,23 @@ Pertemuan 2
 -membuat reposiroty 
 -melihat histori commint dari file (bisa dilihat langsung di sebelah file) di github
 -melihat histori commit dari folder (dapat dilihat dari menu reposiroty-histori) digithub
--melihat histori secara virtual di github
+-melihat histori secara virtual di github masuk ke tab insights=>Nework
 Pertemuan 3 
--point a
+-menjelaskan apa itu branch dan bagaimana cara mengelola file/folder dengan branch yg berbeda
+-branch utama dinamakan dengan 'main' 
+-jika kita akan membuat sub sub dari file dan sub sub dari folder bisa gunakan fitur branch ini
+-misal kita akan membuat sebuah daftar isi sebuah rencana, file 'rencana.txt' di 'main' kita tuliskan judul-judul nya saja. lalu kita buat branch baru dengan nama
+ isi subjudul maka secara otomatis semua isi dari branch 'main' akan didupliaski ke branch 'isi subjudul'.
+ dan file 'rencana.txt' di branch 'isi subjudul' tinggal kita isikan sub-sub judulnya.
+ singkatnya ini akan menjadi 2 folder dengan isi yang sama pada pertama di buat branch baru ('isi rencana') tetapi setiap perubahan di setiap branch akan beda isinya.
+ tapi jika kita akan menggabungkannya (file dengan hanya berisi judul digabung dengan file yang berisi judul->yang sudah terisi subjudul maka kita tinggal lakukan
+ pull request kepada main branch. maka isi dari file 'rencana.txt' sudah full / sama dengan isi dari file 'rencana.txt' dari 'main'
+-cara membuat branch baru tinggal masuk ke menu branch lalu isi kan nama branch baru di text field pencarian or create, lalu ok
+-cara menggabungkan (pull)=> masuk ke tab pull requests=> new pull request=>atur pilihan merge (main)=(subbranch) 
+ lalu akan muncul peringatan bisa digabung atau ada konflik. lalu create pull request dan tunggu persetujuan dari admin branch main. selesai.
 Pertemuan 4
 -point a
-=point b
+-point b
 Pertemuan 5
 Pertemuan 6
 Pertemuan 7
