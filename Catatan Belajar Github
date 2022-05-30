@@ -8,10 +8,18 @@ Pertemuan 2
 -melihat histori commit dari folder (dapat dilihat dari menu reposiroty-histori) digithub
 -melihat histori secara virtual di github
 Pertemuan 3 
--point a
+-menjelaskan apa itu branch dan bagaimana cara mengelola file/folder dengan branch yg berbeda
+-branch utama dinamakan dengan 'main' 
+-jika kita akan membuat sub sub dari file dan sub sub dari folder bisa gunakan fitur branch ini
+-misal kita akan membuat sebuah daftar isi sebuah rencana, file 'rencana.txt' di 'main' kita tuliskan judul-judul nya saja. lalu kita buat branch baru dengan nama
+ isi subjudul maka secara otomatis semua isi dari branch 'main' akan didupliaski ke branch 'isi subjudul'.
+ dan file 'rencana.txt' di branch 'isi subjudul' tinggal kita isikan sub-sub judulnya.
+ singkatnya ini akan menjadi 2 folder dengan isi yang sama pada pertama di buat branch baru ('isi rencana') tetapi setiap perubahan di setiap branch akan beda isinya.
+ tapi jika kita akan menggabungkannya (file dengan hanya berisi judul digabung dengan file yang berisi judul->yang sudah terisi subjudul maka kita tinggal lakukan
+ pull request kepada main branch. maka isi dari file 'rencana.txt' sudah full / sama dengan isi dari file 'rencana.txt' dari 'main'
 Pertemuan 4
 -point a
-=point b
+-point b
 Pertemuan 5
 Pertemuan 6
 Pertemuan 7
