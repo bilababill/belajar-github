@@ -18,7 +18,8 @@ Pertemuan 3
  tapi jika kita akan menggabungkannya (file dengan hanya berisi judul digabung dengan file yang berisi judul->yang sudah terisi subjudul maka kita tinggal lakukan
  pull request kepada main branch. maka isi dari file 'rencana.txt' sudah full / sama dengan isi dari file 'rencana.txt' dari 'main'
 -cara membuat branch baru tinggal masuk ke menu branch lalu isi kan nama branch baru di text field pencarian or create, lalu ok
--cara menggabungkan (pull)=> masuk ke
+-cara menggabungkan (pull)=> masuk ke tab pull requests=> new pull request=>atur pilihan merge (main)=(subbranch) 
+ lalu akan muncul peringatan bisa digabung atau ada konflik. lalu create pull request dan tunggu persetujuan dari admin branch main. selesai.
 Pertemuan 4
 -point a
 -point b
